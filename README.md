@@ -1,3 +1,14 @@
+
+## Run with cli
+
+QAOA energy query on random regular graph:
+
+```
+python demo/QAOA/bench_cli.py query-energy --degree 3 -n 1000 -p 2
+```
+
+---
+
 # Alibaba Cloud Quantum Development Platform (ACQDP)
 
 ## Introduction
